@@ -1,4 +1,5 @@
+## 2/11/15
 john baskerville excercise
 
-
-(http://oisinmk.girhub.io/version1)
+k
+[version 1](http://oisinmk.github.io/john-baskerville/version1.html)
