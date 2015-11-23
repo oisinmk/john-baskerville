@@ -26,18 +26,55 @@ section {padding: 2em 0 2em 0}
         {
          font-weight: normal;
         color: #1aff8c;
+            line-height: 1.5em;
          }
      
      h1{font-size: 3.375em;}
      h2{font-size: 2.25em;}
      h3{font-size: 1.5em;}
       
+header h2 {
+    font-style:italic;
+    font-size:1.8em;
+    margin: -2em 0 1em 0;
+    line height: 1em;
     
+    
+
+
+
+
+}
 .intro 
 
 {font-size: 1.25em;}
 {line-height: 1.9em;}
 {padding: 2em 0 2em 0}
+
+blockquote
+
+{
+    padding: 2em 0;
+    font-size: 1.75em;
+    line-height: 1.5em;
+    margin: 0px;
+    
+}
+
+blockquote cite
+{
+    font-size: 0.75em;
+    
+
+
+
+
+}
+
+.anchor {
+text-transform:uppercase;
+font-size:.75em;
+}
 
 
 /*typography -----------------------------LINKS-------------------------*/
@@ -47,17 +84,45 @@ section {padding: 2em 0 2em 0}
 a {
  color:#c06;
 text-decoration: none;
-    text-transform: uppercase;
-    letter-spacing: 2px;
+    
     
     
 }
 
 a:hover
     {
-        color:firebrick;
-        
-        
-        
-        
+        color:chartreuse;
+        text-decoration: underline;
+        border-bottom: 1px dotted;
+         }
+.anchor a {color:aqua;}
+
+/*----------------------NAV-----------------------*/
+
+nav 
+{
+    border-top: 1px solid #333;
+    border-bottom: 1px solid #333;}
+    
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    
+    letter-spacing: 2px;
+}
+
+
+nav ul li {
+    display: inline;
+    margin: 20px;
+    
+    
+    /* ===========================FOOTER====================*/
+    
+    footer {
+        line-height: 1.2em;
+        border-top: 1px solid #333;
+        border-bottom: 1px solid #333;
+        padding-bottom: 2em;
     }
+    
