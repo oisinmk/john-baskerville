@@ -40,3 +40,15 @@ section {padding: 2em 0 2em 0}
 {padding: 2em 0 2em 0}
 
 
+/*typography -----------------------------LINKS-------------------------*/
+
+
+
+a {
+ color:#c06;
+text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    
+    
+}
