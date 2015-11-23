@@ -11,7 +11,8 @@
          line-height: 1.8em;
          }
          
-        
+
+section {padding: 2em 0 2em 0}
 
 /*typography */
 
@@ -33,6 +34,6 @@
 
 {font-size: 1.25em;}
 {line-height: 1.9em;}
-{padding: 2em 0 2em 0;}
+{padding: 2em 0 2em 0}
 
 
