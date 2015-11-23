@@ -20,3 +20,8 @@ adding h2 id's
 adding Tables first
 
 [version 4](http://oisinmk.github.io/john-baskerville/version4.html)
+
+##23/11/15
+
+adding css
+[version 6](http://oisinmk.github.io/john-baskerville/version6.html)
