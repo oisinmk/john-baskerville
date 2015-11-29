@@ -12,20 +12,20 @@ body    {
     .v1
         {
             font-family: 'Libre Baskerville', Georgia, serif;
-            line-height: 1.5em;
+            line-height: 1.6em;
           
         }
 
     .v2
         {
             font-family: 'Open Sans', sans-serif;
-            line-height: 1.5em;
+            line-height: 1.6em;
         }
 
     .v3
         {
             font-family: 'Open Sans', sans-serif;
-            line-height: 1.5em;
+            line-height: 1.6em;
         }
 
     
@@ -129,10 +129,7 @@ h1, h2, h3
             text-transform: uppercase;
         }
 
-    .v2 p
-        {
-            margin: 0;
-        }
+    
 
     .v2 .intro
         {
