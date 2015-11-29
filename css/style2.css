@@ -1,0 +1,207 @@
+/*---------------Body------------*/
+
+
+body    {
+            margin:auto;
+            width: 70%;
+            max-width: 750px;
+            min-width:320px;
+            font-size: 100%;
+                    }
+
+    .v1
+        {
+            font-family: 'Libre Baskerville', Georgia, serif;
+            line-height: 1.6em;
+          
+        }
+
+    .v2
+        {
+            font-family: 'Open Sans', sans-serif;
+            line-height: 1.6em;
+        }
+
+    .v3
+        {
+            font-family: 'Open Sans', sans-serif;
+            line-height: 1.6em;
+        }
+
+    
+/*---------------Type------------*/
+
+
+h1, h2, h3
+            {
+                font-weight: normal;
+            }
+
+        .dropcaps
+            {
+                float: left;
+                font-size: 5em;
+                padding-bottom: 12px;
+            }
+
+        .uppercase
+            {
+                text-transform: uppercase;
+            }
+
+        .indent
+            {
+                text-indent: 1.7em;
+            }
+
+/*---------------Version1------------*/
+
+
+    .v1 h1 
+        {
+            font-size: 3.998em;
+            margin-top: 25px;
+            margin-bottom: 35px;
+            line-height: 1.2em;
+        }
+    
+    .v1 h2 
+        {
+            font-size: 1.999em;
+            font-style: italic;
+            line-height: 1.1em;
+        }
+
+    .v1 h3
+        {
+            margin-top: 4em;
+            font-size: 1em;
+            text-transform: uppercase;
+        }
+
+    .v1 .intro
+        {
+            font-size: 1.212em;
+            margin: 2.5em 0;
+            line-height: 1.6em;
+        }
+
+    .v1 blockquote
+        {
+            margin: 2.5em 0;
+            color: #888;
+            font-style: italic;
+            font-size: 1.3em;
+            line-height: 1.8em;
+            text-indent: -0.5em
+        }
+
+    .v1 cite
+        {
+            font-size: 0.8em;
+        }
+
+.firstcharacter
+{
+       float: left; color: #black; font-size: 70px; line-height: 50px; padding-top: 0px; padding-right: 5px; padding-left: 3px; font-family: baskerville; }
+
+/*---------------Version2------------*/
+
+
+    .v2 h1
+        {
+            font-size: 4em;
+            margin-top: 20px;
+            margin-bottom:40px;
+            line-height: 1.2em;
+        }
+
+    .v2 h2
+        {
+            font-size: 1.4em;
+            font-style: italic;
+        }
+
+    .v2 h3
+        {
+            margin-top: 4em;   
+            font-size: 1em;
+            text-transform: uppercase;
+        }
+
+    .v2 p
+        {
+            margin: 0;
+        }
+
+    .v2 .intro
+        {
+            margin: 2.5em 0;
+            font-size: 1.2em;
+            line-height: 1.4em;
+        }
+
+    .v2 blockquote
+        {
+            margin: 2.5em 0;
+            color: #888;
+            text-indent: -0.4em;
+            font-size: 1.2em;
+            line-height: 1.5em;
+        }
+
+    .v2 blockquote p
+        {
+            margin-bottom: 1em;
+        }   
+
+    .v2 cite
+        {
+            font-size: 0.8em;
+        }
+
+
+/*---------------Version3------------*/
+
+
+    .v3 h1
+        {
+            font-family: 'Slabo 27px', serif;
+            font-size: 3.998em;
+            margin:0;
+        }
+
+    .v3 h2
+        {
+            font-family: 'Slabo 27px', serif;
+            font-style: italic;
+            margin-top:30px;
+        }
+
+    .v3 h3
+        {
+            text-transform: uppercase;
+            margin-bottom: 40px;
+        }
+
+    .v3 .intro
+        {
+            margin: 2.5em 0;
+            font-size: 1.2em;
+            line-height: 1.5em;
+        }
+
+    .v3 blockquote
+        {
+            font-family: 'Slabo 27px', serif;
+            margin: 2.5em 0 4em 0;
+            font-size: 1.4em;
+            line-height:1.5em;
+            color: #888;
+            text-indent: -0.4em
+        }
+
+    .v3 cite
+        {
+            font-size: 0.8em;
+        }
