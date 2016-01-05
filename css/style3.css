@@ -1,0 +1,673 @@
+
+    *
+	{
+	Padding: 0;
+Margin: 0;
+	Font-size:100%;
+	Line-height:1em;
+	}
+ 
+
+body{
+       text-align: center;
+          background-color: #256F5C;
+    color: white;
+
+         }
+        
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:700);
+
+section {padding: 2em 0 2em 0}
+
+/*typography */
+.foundries
+
+{
+  list-style: none;
+}
+.foundries img
+{
+
+display:block;
+align-items:center;
+    float: left;
+    margin:
+    
+    
+
+
+}
+    
+p
+{clear: both;}
+    
+
+
+
+
+
+
+
+
+
+        h1,h2,h3
+
+        {
+         font-weight: normal;
+        color: #black;
+            line-height: 1.5em;
+  font-family: 'Josefin Sans', sans-serif;
+
+         }
+     
+     h1{font-size: 3.375em;}
+     h2{font-size: 2.25em;}
+     h3{font-size: 1.5em;}
+      
+header h2 {
+    font-style:italic;
+    font-size:1.8em;
+    margin: -.5em 0 1em 0;
+    line height: 1em;
+    padding-bottom: 2em;
+    
+}
+
+h1{
+    padding-top: 1em;
+    align-content: center;
+    padding-right: 3em;
+    padding-bottom: .5em;
+
+
+
+}
+h2
+{
+    padding-bottom: 1em;
+}
+
+
+
+
+
+
+p
+{
+    line-height: 1.5em;
+    padding-bottom: 1em;
+   font-family: 'Playfair Display', serif;
+}
+
+
+
+blockquote
+
+{
+    padding: 2em 0;
+    font-size: 2.5em;
+    line-height: 1.7em;
+    margin: 0px;
+    color:darkgray;
+    margin-top: 5em;
+    font-family: 'baskerville';
+
+    
+}
+
+blockquote cite
+{
+    font-size: 0.75em;
+    
+
+
+
+
+}
+
+.anchor {
+text-transform:uppercase;
+font-size:.75em;
+}
+
+
+/*typography -----------------------------LINKS-------------------------*/
+
+
+
+.section-1
+    
+        
+        
+      {
+        ;
+          margin-top:10em;
+          position:relative;
+        padding: 10px 10px 120px 10px;
+       margin-bottom: 10em;
+        max-width: 100%;
+          height: 650px;
+        }
+.pman
+{
+        
+        font-family: 'Playfair Display', serif;
+        padding: 10px;
+        line-height: 1.35em;
+        margin: 0 20% 0 20%;
+        font-size:20px;
+        text-align: justify;
+        }
+   
+/*section2 ------------------------------------------------------*/
+
+
+.section-2
+{
+   background-color: white;
+    height:650px;
+    position:relative
+         padding: 10px 10px 120px 10px;
+    max-width: 100%;
+    
+        
+    
+    
+    
+}
+
+
+blockquote
+{
+    
+    padding: 2em 0;
+    font-size: 2.5em;
+    line-height: 1.7em;
+    margin: 0px;
+    color:darkgray;
+    margin-top: 2.5em;
+    font-family: 'baskerville';
+    
+    
+}
+
+.pquote
+{
+    margin-top: 6em;
+    font-family: 'Roboto Slab', serif;
+        padding: 10px;
+        line-height: 1.2em;
+        margin: 0 20% 0 20%;
+        font-size:40px;
+        text-align: left;
+    color: #256F5C;
+    
+    
+     
+    
+}
+
+
+
+
+/*--------------SEction3------*/
+
+.section-3
+{
+    margin-top: 5em;
+    height:600px;
+    position:relative
+         padding: 10px 10px 120px 10px;
+    max-width: 100%;
+    
+    
+    
+}
+.bq31
+{
+    font-family: 'Playfair Display', serif;
+        padding: 10px;
+        line-height: 1.35em;
+        margin: 0 20% 0 20%;
+        font-size:20px;
+        text-align: justify;
+    
+    
+}
+
+
+
+.bq32
+{
+    font-family: 'Playfair Display', serif;
+        padding: 10px;
+        line-height: 1.35em;
+        margin: 0 20% 0 20%;
+        font-size:20px;
+        text-align: justify;
+    
+    
+}
+
+
+
+.bq33
+{
+    font-family: 'Playfair Display', serif;
+        padding: 10px;
+        line-height: 1.35em;
+        margin: 0 20% 0 20%;
+        font-size:20px;
+        text-align: justify;
+    
+    
+    
+}
+
+
+
+/*--------------------SECTION-MRS EAVES SEction-O-------------------*////
+
+.section-o
+{
+    
+    
+    
+    position:relative
+         padding: 10px 10px 10px 10px;
+    max-width: 100%;
+    padding-bottom: 100px;
+    
+    
+}
+.pe1
+
+{
+    
+    
+    font-family: 'Playfair Display', serif;
+        padding: 10px;
+        line-height: 1.35em;
+        margin: 0 20% 0 20%;
+        font-size:20px;
+        text-align: justify;
+    
+}
+
+
+.pe2
+{
+    
+     font-family: 'Playfair Display', serif;
+        padding: 10px;
+        line-height: 1.35em;
+        margin: 0 20% 0 20%;
+        font-size:20px;
+        text-align: justify;
+    
+    
+    
+}
+
+
+/*-------------Section4----------------*/////
+.section-4
+{
+margin-top: 5em;
+    height:600px;
+    position:relative
+         padding: 10px 10px 120px 10px;
+    max-width: 100%;
+    
+}
+
+/*----------------------NAV-----------------------*/
+
+.ancor1
+        {
+        width:100px;
+        height:100px;
+        padding:50px;
+        z-index: 1;
+        position: fixed;
+        left: 10px;
+        top:140px;
+        display: inline-block;
+        -webkit-transition-duration: 0.3s;
+        transition-duration: 0.3s;
+        -webkit-transition-property: -webkit-transform;
+        transition-property: transform;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        -webkit-transform: translateZ(0);
+        -ms-transform: translateZ(0);
+        transform: translateZ(0);
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+        }
+
+.ancor1:hover 
+        {
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+        }
+
+
+.ancor2
+        {
+        width:100px;
+        height:100px;
+        padding:50px;
+        z-index: 1;
+        position: fixed;
+        left: 10px;
+        top: 260px;
+        display: inline-block;
+        -webkit-transition-duration: 0.3s;
+        transition-duration: 0.3s;
+        -webkit-transition-property: -webkit-transform;
+        transition-property: transform;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        -webkit-transform: translateZ(0);
+        -ms-transform: translateZ(0);
+        transform: translateZ(0);
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+        }
+
+.ancor2:hover 
+        {
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+        }
+
+.ancor3
+        {
+        width:100px;
+        height:100px;
+        padding:50px;
+        z-index: 1;
+        position: fixed;
+        left:10px;
+        top: 380px;
+        display: inline-block;
+        -webkit-transition-duration: 0.3s;
+        transition-duration: 0.3s;
+        -webkit-transition-property: -webkit-transform;
+        transition-property: transform;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        -webkit-transform: translateZ(0);
+        -ms-transform: translateZ(0);
+        transform: translateZ(0);
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+        }
+
+.ancor3:hover 
+        {
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+        }
+
+
+
+.ancor4
+        {
+        width:100px;
+        height:100px;
+        padding:50px;
+        z-index: 1;
+        position: fixed;
+        left:10px;
+        top:500px;
+        display: inline-block;
+        -webkit-transition-duration: 0.3s;
+        transition-duration: 0.3s;
+        -webkit-transition-property: -webkit-transform;
+        transition-property: transform;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        -webkit-transform: translateZ(0);
+        -ms-transform: translateZ(0);
+        transform: translateZ(0);
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+        }
+
+.ancor4:hover 
+        {
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+        }
+
+
+
+.vector
+        {
+            margin-top: 5em;
+        width:45%;
+        height:40%;
+        min-width: 250px;
+        display: inline-block;
+        -webkit-transition-duration: 0.3s;
+        transition-duration: 0.3s;
+        -webkit-transition-property: -webkit-transform;
+        transition-property: transform;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        -webkit-transform: translateZ(0);
+        -ms-transform: translateZ(0);
+        transform: translateZ(0);
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+        }
+
+.vector:hover 
+        {
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+        }
+
+
+
+
+
+iframe
+        {
+        padding: 30px
+        }
+
+
+
+
+    
+    /* ===========================FOOTER====================*/
+    
+    footer {
+        line-height: 1.9em;
+        
+    padding-top:15em;
+        padding-bottom: 1em;
+        font-size: 85%;
+        
+    }
+    
+    
+    /*========================Table===============*/
+    
+  .types
+        {
+            
+        position:relative;
+        padding: 10px 10px 400px 10px;
+        background: white;
+        max-width: 100%;
+            height:5.8em;
+            
+        }
+
+
+
+ul
+        {
+            
+        margin-top: 1em;
+            text-align: right;
+        color: #256F5C;
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 30px;
+        padding-top: 60px;
+        padding-bottom: 10px;
+            
+        }
+ol 
+        {
+        text-align: right;
+        color:##91dac8;
+        }
+.hot-type
+
+        {
+        width:220px;
+        text-align:center;
+        min-height:150px;
+        height:auto;
+        padding-left:20px;
+        float:left;
+        margin-left: 20%;
+        }
+
+.cold-type
+
+        {
+        width:220px;
+        text-align:center;
+        min-height:150px;
+        height:auto;
+        padding-left:20px;
+        float:left;
+        margin-left:50px;
+        }
+
+.digital
+        {
+        width:220px;
+        text-align:center;
+        min-height:150px;
+        height:auto;
+        padding-left:20px;
+        float:left;
+        margin-left: 50px;
+        }
+blockquote
+
+        {
+        padding-top:60px ;
+        color:##91dac8;
+        font-size: 20px;
+        font-family: baskerville;
+        text-align: center;
+        margin: 0 150px;
+        }
+
+cite
+
+        {
+        margin-top:30px;
+        font-size: 15px
+        }
+
+ol a       
+        {
+        margin-top:.5em;
+            color:#91dac8;
+        text-decoration: none;
+        letter-spacing: 2px;
+         font-family: 'Playfair Display', serif;
+        font-size: 20px;
+                display: inline-block;
+        -webkit-transition-duration: 0.3s;
+        transition-duration: 0.3s;
+        -webkit-transition-property: -webkit-transform;
+        transition-property: transform;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        -webkit-transform: translateZ(0);
+        -ms-transform: translateZ(0);
+        transform: translateZ(0);
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+        }
+        
+        a:hover 
+        {
+        color: #2C221B;
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+        }
+
+small a {  color:white;
+        text-decoration: none;
+        letter-spacing: 1.5px;
+         font-family: 'Playfair Display', serif;
+        font-size: 25px;
+        }
+        
+        a:hover 
+        {
+        color: #2C221B;}
+
+
+
+
+
+/*-------------------phone--------------------------*/
+
+@media (max-width: 30em) {
+
+Body {
+Margin: auto 0;
+Font-size: 110%;
+}
+Article {
+Width: 90%;
+}
+H1{font-size: 2.9em;}
+
+Blockquote {margin: 0;
+Padding: 0;
+Line-height:1.5em}
+Hgroup h2 {font-size:1.5em;
+Padding-top: 0.5em}
+}
+
+@media (max-width:48em)
+{
+Body{
+Background: aqua;
+
+
+}
+    
+    /*--------------------------IMAGES-------*/
+  
+.john-baskerville
+        {
+        position:relative;
+        padding: 10px 10px 150px 10px;
+        background: #333333;
+        max-width: 100%;
+            height: 650px;
+        }
+    
+    
+.
+
+    
+    /*-----fonts----*/
+    
+    @font-face {
+    font-family: 'Hallo-sans-black';
+    src: url(..fonts/Hallo-sans-black.otf);
+    font-weight: bold;
+}
+    
+     
+
+    

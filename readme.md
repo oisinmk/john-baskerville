@@ -26,3 +26,5 @@ Part 01 HTML
 + [Version x](https://oisinmk.github.io/john-baskerville/versionX.html) - Adding first set of CSS rules. Concentrating on typographic layout at the moment.
 
 
+##30th November 2015
++[version 7]  (https://oisinmk.github.io/john-baskerville/version7.html) - **
