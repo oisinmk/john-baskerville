@@ -304,6 +304,8 @@ blockquote
         margin: 0 20% 0 20%;
         font-size:20px;
         text-align: justify;
+    margin-bottom: 4em;
+    margin-top: 2em;
     
     
     
@@ -657,7 +659,20 @@ Background: aqua;
         }
     
     
-.
+.eavy1
+    {
+        margin-top: 3em;
+        margin-bottom: 2em;
+        position: relative;
+        
+    }
+    
+    .penny1
+    
+    {
+        margin-bottom: 1em;
+        position: relative;
+    }
 
     
     /*-----fonts----*/
