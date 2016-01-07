@@ -157,6 +157,7 @@ font-size:.75em;
         margin: 0 20% 0 20%;
         font-size:20px;
         text-align: justify;
+     border-top: 5px solid #333333;
         }
    
 /*section2 ------------------------------------------------------*/
@@ -245,6 +246,7 @@ blockquote
         margin: 0 20% 0 20%;
         font-size:20px;
         text-align: justify;
+     border-top: 5px solid #333333;
     
     
 }
@@ -259,6 +261,7 @@ blockquote
         margin: 0 20% 0 20%;
         font-size:20px;
         text-align: justify;
+     border-top: 5px solid #333333;
     
     
     
@@ -291,6 +294,8 @@ blockquote
         margin: 0 20% 0 20%;
         font-size:20px;
         text-align: justify;
+     border-bottom: 5px solid #333333;
+    margin-top: 2em;
     
 }
 
@@ -305,7 +310,8 @@ blockquote
         font-size:20px;
         text-align: justify;
     margin-bottom: 4em;
-    margin-top: 2em;
+    margin-top: 1em;
+    
     
     
     
@@ -489,6 +495,7 @@ iframe
         padding-bottom: 1em;
         font-size: 85%;
         
+        
     }
     
     
@@ -653,7 +660,7 @@ Background: aqua;
         {
         position:relative;
         padding: 10px 10px 150px 10px;
-        background: #333333;
+        background-color: white;
         max-width: 100%;
             height: 650px;
         }
