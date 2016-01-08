@@ -27,4 +27,4 @@ Part 01 HTML
 
 
 ##30th November 2015
-+[version 7]  (https://oisinmk.github.io/john-baskerville/version7.html) - **
++[final version]  (https://oisinmk.github.io/john-baskerville/version7.html) - **
