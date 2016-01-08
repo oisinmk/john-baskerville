@@ -10,8 +10,9 @@ Margin: 0;
 
 body{
        text-align: center;
-          background-color: #256F5C;
+          background-color: #282827 ;
     color: white;
+    width: 100%;
 
          }
         
@@ -54,9 +55,9 @@ p
 
         {
          font-weight: normal;
-        color: #black;
+        color: #E25D33;
             line-height: 1.5em;
-  font-family: 'Josefin Sans', sans-serif;
+ font-family: 'Open Sans Condensed', sans-serif;
 
          }
      
@@ -96,7 +97,8 @@ p
 {
     line-height: 1.5em;
     padding-bottom: 1em;
-   font-family: 'Playfair Display', serif;
+  font-family: 'Libre Baskerville', serif;
+    
 }
 
 
@@ -141,7 +143,7 @@ font-size:.75em;
         
       {
         ;
-          margin-top:10em;
+          margin-top:1em;
           position:relative;
         padding: 10px 10px 120px 10px;
        margin-bottom: 10em;
@@ -151,13 +153,16 @@ font-size:.75em;
 .pman
 {
         
-        font-family: 'Playfair Display', serif;
-        padding: 10px;
-        line-height: 1.35em;
+        font-family: 'Libre Baskerville', serif;
+        padding: 20px;
+        line-height: 1.5em;
         margin: 0 20% 0 20%;
         font-size:20px;
         text-align: justify;
-     border-top: 5px solid #333333;
+    color: #DCD8CF;
+     border-top: 5px solid #FFA480;
+    width: 50%;
+    margin-bottom: 1em;
         }
    
 /*section2 ------------------------------------------------------*/
@@ -169,7 +174,7 @@ font-size:.75em;
     height:650px;
     position:relative
          padding: 10px 10px 120px 10px;
-    max-width: 100%;
+  
     
         
     
@@ -201,7 +206,7 @@ blockquote
         margin: 0 20% 0 20%;
         font-size:40px;
         text-align: left;
-    color: #256F5C;
+    color: #E25D33;
     
     
      
@@ -226,13 +231,13 @@ blockquote
 }
 .bq31
 {
-    font-family: 'Playfair Display', serif;
+   font-family: 'Libre Baskerville', serif;
         padding: 10px;
         line-height: 1.35em;
         margin: 0 20% 0 20%;
         font-size:20px;
         text-align: justify;
-    
+        width: 50%;
     
 }
 
@@ -240,14 +245,14 @@ blockquote
 
 .bq32
 {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Libre Baskerville', serif;
         padding: 10px;
         line-height: 1.35em;
         margin: 0 20% 0 20%;
         font-size:20px;
         text-align: justify;
-     border-top: 5px solid #333333;
-    
+     border-top: 5px solid #FFA480;
+    width: 50%;
     
 }
 
@@ -255,13 +260,14 @@ blockquote
 
 .bq33
 {
-    font-family: 'Playfair Display', serif;
+   font-family: 'Libre Baskerville', serif;
         padding: 10px;
         line-height: 1.35em;
         margin: 0 20% 0 20%;
         font-size:20px;
         text-align: justify;
-     border-top: 5px solid #333333;
+     border-top: 5px solid #FFA480;
+    width: 50%;
     
     
     
@@ -287,15 +293,16 @@ blockquote
 
 {
     
-    
-    font-family: 'Playfair Display', serif;
+   font-family: 'Libre Baskerville', serif;
+    font-style: lighter;
         padding: 10px;
         line-height: 1.35em;
         margin: 0 20% 0 20%;
         font-size:20px;
         text-align: justify;
-     border-bottom: 5px solid #333333;
+     border-bottom: 5px solid #FFA480;
     margin-top: 2em;
+    width: 50%;
     
 }
 
@@ -303,7 +310,7 @@ blockquote
 .pe2
 {
     
-     font-family: 'Playfair Display', serif;
+  font-family: 'Libre Baskerville', serif;
         padding: 10px;
         line-height: 1.35em;
         margin: 0 20% 0 20%;
@@ -311,6 +318,7 @@ blockquote
         text-align: justify;
     margin-bottom: 4em;
     margin-top: 1em;
+    width: 50%;
     
     
     
@@ -445,16 +453,22 @@ margin-top: 5em;
         -ms-transform: scale(1.1);
         transform: scale(1.1);
         }
-
+.myface
+{
+    margin-top: 10em;
+ margin-left: -10em;   
+    
+}
 
 
 .vector
         {
-            margin-top: 5em;
-        width:45%;
-        height:40%;
-        min-width: 250px;
+            margin-top: 3em;
+        width:15%;
+        height:15%;
+        min-width: 100px;
         display: inline-block;
+            margin-left: -15em;
         -webkit-transition-duration: 0.3s;
         transition-duration: 0.3s;
         -webkit-transition-property: -webkit-transform;
@@ -519,7 +533,7 @@ ul
             
         margin-top: 1em;
             text-align: right;
-        color: #256F5C;
+        color: #E25D33;
         font-family: 'Josefin Sans', sans-serif;
         font-size: 30px;
         padding-top: 60px;
@@ -529,7 +543,7 @@ ul
 ol 
         {
         text-align: right;
-        color:##91dac8;
+        color:#FFA480;
         }
 .hot-type
 
@@ -569,7 +583,7 @@ blockquote
 
         {
         padding-top:60px ;
-        color:##91dac8;
+        color:#FFA480;
         font-size: 20px;
         font-family: baskerville;
         text-align: center;
@@ -586,7 +600,7 @@ cite
 ol a       
         {
         margin-top:.5em;
-            color:#91dac8;
+            color:#FFA480;
         text-decoration: none;
         letter-spacing: 2px;
          font-family: 'Playfair Display', serif;
@@ -659,9 +673,9 @@ Background: aqua;
 .john-baskerville
         {
         position:relative;
-        padding: 10px 10px 150px 10px;
+       
         background-color: white;
-        max-width: 100%;
+        
             height: 650px;
         }
     
