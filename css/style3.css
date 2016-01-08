@@ -112,7 +112,8 @@ blockquote
     margin: 0px;
     color:darkgray;
     margin-top: 5em;
-    font-family: 'baskerville';
+   font-family: 'Libre Baskerville', serif;
+    
 
     
 }
@@ -192,7 +193,8 @@ blockquote
     margin: 0px;
     color:darkgray;
     margin-top: 2.5em;
-    font-family: 'baskerville';
+    font-family:'Libre Baskerville', serif;
+    
     
     
 }
@@ -456,7 +458,8 @@ margin-top: 5em;
 .myface
 {
     margin-top: 10em;
- margin-left: -10em;   
+ margin-left: -10em; 
+    margin-bottom: -7em;
     
 }
 
@@ -464,8 +467,8 @@ margin-top: 5em;
 .vector
         {
             margin-top: 3em;
-        width:15%;
-        height:15%;
+        width:50%;
+        height:50%;
         min-width: 100px;
         display: inline-block;
             margin-left: -15em;
@@ -478,6 +481,7 @@ margin-top: 5em;
         -ms-transform: translateZ(0);
         transform: translateZ(0);
         box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+            margin-bottom: 6em;
         }
 
 .vector:hover 
@@ -534,7 +538,7 @@ ul
         margin-top: 1em;
             text-align: right;
         color: #E25D33;
-        font-family: 'Josefin Sans', sans-serif;
+        font-family: 'Open Sans Condensed', sans-serif;
         font-size: 30px;
         padding-top: 60px;
         padding-bottom: 10px;
@@ -603,7 +607,8 @@ ol a
             color:#FFA480;
         text-decoration: none;
         letter-spacing: 2px;
-         font-family: 'Playfair Display', serif;
+         font-family: 'Libre Baskerville', serif;
+    
         font-size: 20px;
                 display: inline-block;
         -webkit-transition-duration: 0.3s;
